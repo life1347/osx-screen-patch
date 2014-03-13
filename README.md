@@ -2,14 +2,12 @@ osx-screen-patch
 ================
 
 Patching GNU Screen with vertical split support in OS X
-
 AUTO
 =====
 ```bash
 $ cd screen/rc
 $ ./patch.sh
 ```
-
 MANUAL 
 ====
 ``` bash
