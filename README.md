@@ -1,4 +1,4 @@
 osx-screen-patch
 ================
 
-OSX Screen Patch - support vertically split
+Patching GNU Screen with vertical split support in OS X
