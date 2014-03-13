@@ -16,3 +16,7 @@ $ ./configure --enable-locale --enable-telnet --enable-colors256 --enable-rxct_o
 $ make
 $ sudo make install
 ```
+
+THANKS TO
+====
+http://old.evanmeagher.net/2010/12/patching-screen-with-vertical-split-in-os
